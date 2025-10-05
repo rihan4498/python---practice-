@@ -1,2 +1,5 @@
 # python---practice-
-“My first Python practice projects”
+# Hello World Project
+This is my very first project uploaded to GitHub.  
+It prints "Hello, GitHub!" using Python.  
+
